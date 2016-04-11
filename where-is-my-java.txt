@@ -1,0 +1,4 @@
+Java location:
+/usr/bin/java
+Javac location:
+/usr/bin/javac
